@@ -1,7 +1,3 @@
-# docker-jenkins
-Docker×Jenkins
-
-
 # Docker-Jenkins
 
 ## 概要
